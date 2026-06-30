@@ -2,7 +2,7 @@
 
 **Artificial Intelligence Mobile Software Engineering Assessment**
 
-AIM-SEA is an open assessment framework for AI-enabled mobile software engineering education.
+AIM-SEA is an open research project for assessment in AI-enabled mobile software engineering education.
 
 The project seeks to improve the quality, consistency, transparency, and usefulness of evidence used to evaluate learner proficiency.
 
