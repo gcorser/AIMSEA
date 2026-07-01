@@ -35,4 +35,4 @@ Major architectural decisions:
 
 Outcome:
 
-The project evolved from an assessment framework into a methodology for constructing intellectually defensible educational assessment frameworks, with AI-enabled mobile software engineering serving as its initial application domain.
+The project evolved from an assessment framework into a research methodology for constructing intellectually defensible educational assessment frameworks. AI-enabled mobile software engineering was identified as the methodology's initial application domain.
