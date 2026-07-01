@@ -1,4 +1,4 @@
-# AIM-SEA Epistemology
+# AIMSEA Epistemology
 
 **Status:** Placeholder
 

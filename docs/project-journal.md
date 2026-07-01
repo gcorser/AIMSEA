@@ -1,4 +1,4 @@
-# AIM-SEA Project Journal
+# AIMSEA Project Journal
 
 ## 2026-06-30
 
@@ -36,3 +36,26 @@ Major architectural decisions:
 Outcome:
 
 The project evolved from an assessment framework into a research methodology for constructing intellectually defensible educational assessment frameworks. AI-enabled mobile software engineering was identified as the methodology's initial application domain.
+
+---
+
+## 2026-07-01
+
+### Repository Renamed to AIMSEA
+
+The project's canonical name was changed from **AIM-SEA** to **AIMSEA**.
+
+The expanded name remains **Artificial Intelligence Mobile Software Engineering Assessment**.
+
+Reasons for the change:
+
+- Improved searchability in academic databases and web search engines.
+- Consistent spelling across publications, documentation, URLs, and software artifacts.
+- Elimination of ambiguity associated with hyphenated names.
+- Simplified repository, website, and future namespace naming.
+
+The project will use **AIMSEA** as its canonical name in all future documents. Historical journal entries retain the original name where appropriate to preserve an accurate record of the project's evolution.
+
+Outcome:
+
+The project adopted a single, searchable identity intended to improve long-term discoverability, consistency, and scholarly citation.
