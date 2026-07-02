@@ -59,3 +59,27 @@ The project will use **AIMSEA** as its canonical name in all future documents. H
 Outcome:
 
 The project adopted a single, searchable identity intended to improve long-term discoverability, consistency, and scholarly citation.
+
+---
+
+## 2026-07-02
+
+### Problem Statement Drafted
+
+The initial draft of **AIMSEA-PS-001 (Problem Statement)** was completed.
+
+Major architectural decisions:
+
+- Distinguished the **Problem Statement** from the **Research Question**.
+- Defined the Assessment Problem as the motivating challenge addressed by AIMSEA.
+- Identified the primary research question:
+
+  > *How can educators effectively and efficiently develop and maintain assessment systems that produce defensible evidence of learner proficiency?*
+
+- Recognized rapidly evolving technical disciplines, particularly AI-enabled mobile software engineering, as the initial application domain motivating the project.
+- Distinguished the enduring research question from its current technological context, recognizing that rapid technological change—not artificial intelligence alone—is the primary motivation for the project's initial scope.
+- Defined AIMSEA as a collaborative methodology, repository, and scholarly community rather than solely an assessment framework.
+
+Outcome:
+
+The project now contains a formal problem statement that establishes the motivation, scope, and intended contribution of AIMSEA. This document provides the foundation for future methodology, framework specifications, and research publications while maintaining explicit recognition of real-world engineering constraints, including limited faculty time and the need for practical assessment solutions.
